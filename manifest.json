@@ -2,20 +2,17 @@
   {
     "name": "Guitar Hero",
     "description": "Adds a button to automatically search Ultimate Guitar for chords.",
-    "preview": "",
+    "preview": "preview.png",
     "main": "guitar-hero.js",
     "readme": "README.md",
     "authors": [
         { "name": "GodKingTyler", "url": "https://github.com/GodKingTyler" }
-    ],
-    "tags": ["tools"]
+    ]
   },
   {
     "name": "guitar-hero",
     "description": "Adds a button to automatically search Ultimate Guitar for chords.",
-    "preview": "",
     "main": "guitar-hero.js",
     "readme": "filepathFromGitRepo/README.md",
-    "branch": "main"
   },
 ]
