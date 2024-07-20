@@ -13,6 +13,6 @@
     "name": "guitar-hero",
     "description": "Adds a button to automatically search Ultimate Guitar for chords.",
     "main": "guitar-hero.js",
-    "readme": "filepathFromGitRepo/README.md",
-  },
+    "readme": "filepathFromGitRepo/README.md"
+  }
 ]
